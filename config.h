@@ -1,8 +1,6 @@
 /* See LICENSE file for copyright and license details. */
 
-#include "tatami.c"
-#include "bstack.c"
-#include "fibonacci.c"
+#include "layouts.c"
 
 /* appearance */
 static const unsigned int borderpx  = 1;        /* border pixel of windows */
