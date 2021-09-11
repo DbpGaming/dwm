@@ -10,7 +10,7 @@ static const char dmenufont[]       = "monospace:size=10";
 static const char col_bg[]       = "#282828";
 static const char col_brdr[]       = "#928374";
 static const char col_text[]       = "#ebdbb2";
-static const char col_sel[]        = "#fb4934";
+static const char col_sel[]        = "#cc241d";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_text, col_bg, col_brdr },
